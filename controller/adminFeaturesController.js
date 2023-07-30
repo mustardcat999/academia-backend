@@ -9,7 +9,7 @@ import Student from "../models/students.js";
 import JobDrive from "../models/jobDrive.js";
 import Students from "../models/students.js";
 import nodemailer from "nodemailer";
-import Company from "../models/Company.js";
+import Company from "../models/company.js";
 import { sendMail } from "./communication.js";
 import jobDrive from "../models/jobDrive.js";
 import { Parser } from "json2csv";
