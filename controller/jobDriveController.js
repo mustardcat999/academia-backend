@@ -5,7 +5,7 @@ import {
   UnAuthenticatedError,
 } from "../errors/index.js";
 import Admin from "../models/admin.js";
-import Company from "../models/Company.js";
+import Company from "../models/company.js";
 import { StatusCodes } from "http-status-codes";
 import Students from "../models/students.js";
 
